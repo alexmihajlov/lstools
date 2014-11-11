@@ -1,0 +1,4 @@
+# another host
+SRC_SERV="192.168.101.12"
+# another path
+DIR_SRC_JAIL="wwwphp535pctl"
